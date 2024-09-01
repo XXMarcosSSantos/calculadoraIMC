@@ -16,11 +16,11 @@ na tela seguinte
 - ViewsGroups
     -LinearLayout
     -ConstraintLayout
--Views
--ImageView
--TextView
--EditText
--Button
+- Views
+- ImageView
+- TextView
+- EditText
+- Button
 
 ## License
 ```

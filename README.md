@@ -18,9 +18,9 @@ na tela seguinte
     - ConstraintLayout
 - Views
 - ImageView
-- TextView
-- EditText
-- Button
+  - TextView
+  - EditText
+  - Button
 
 ## License
 ```

@@ -14,8 +14,8 @@ na tela seguinte
 - Intent
 - Snackbar
 - ViewsGroups
-    -LinearLayout
-    -ConstraintLayout
+    - LinearLayout
+    - ConstraintLayout
 - Views
 - ImageView
 - TextView
